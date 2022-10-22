@@ -28,4 +28,4 @@ def percent_func(new_dict):
     return new_dict
 
 
-print(percent_func(dict_2))
+#print(percent_func(dict_2))
